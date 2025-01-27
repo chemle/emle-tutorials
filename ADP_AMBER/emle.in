@@ -3,7 +3,7 @@ Production
   imin=0,
   ntx=1,
   irest=0,
-  nstlim=10000,
+  nstlim=1000,
   dt=0.001,
   ntf=1,
   ntc=1,
